@@ -50,4 +50,4 @@ The project supports multiple NIDS datasets, including:
 Feel free to contribute by submitting issues or pull requests.
 
 ## Contact
-For questions or collaborations, reach out to the author at [mtermos@gmail.com].
+For questions or collaborations, reach out to the author at [mtermos@cesi.fr].
